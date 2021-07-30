@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=stepboomz&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/stepboomz)
 
 <!--
 **stepboomz/stepboomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

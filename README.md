@@ -1,4 +1,4 @@
-### Hi there, I'm Stepboomz - aka [stepboomz] 👋
+### Hi there, I'm Stepboomz 👋
 
 
 ### 📊 GitHub Stats

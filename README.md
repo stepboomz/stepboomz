@@ -8,3 +8,11 @@
 </div>
 
 
+<h2>📊 Weekly development breakdown: </h2>
+
+
+```text
+Python         8 hrs 14 mins       ████████░░     81.06%
+Flutter        5 hr 12 mins        █░░░░░░░░░     11.96%
+Text           42 mins             ░░░░░░░░░░     6.99%
+```

@@ -7,7 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowth&layout=compact&theme=dark&langs_count=10" />
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/stepboomz/Portfolio/blob/master/super-kid.gif?raw=true" width="500" height="320" />
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->

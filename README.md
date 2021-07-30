@@ -29,3 +29,12 @@ Text           42 mins             ░░░░░░░░░░     6.99%
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JSX          32 hrs 37 mins  ████████████████████████░   96.52 % 
+JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+```
+<!--END_SECTION:waka-->

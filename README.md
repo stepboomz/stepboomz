@@ -7,15 +7,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowth&layout=compact&theme=dark&langs_count=10" />
 </div>
 
+<img align="right" alt="GIF" src="https://github.com/stepboomz/Portfolio/blob/master/super-kid.gif?raw=true" width="500" height="320" />
 
-<h2>📊 Weekly development breakdown: </h2>
-
-
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 ```text
-Python         8 hrs 14 mins       ████████░░     81.06%
-Flutter        5 hr 12 mins        █░░░░░░░░░     11.96%
-Text           42 mins             ░░░░░░░░░░     6.99%
+JSX          32 hrs 37 mins  ████████████████████████░   96.52 % 
+JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
+<!--END_SECTION:waka-->
 
 **languages and tools:**  
 
@@ -30,11 +31,3 @@ Text           42 mins             ░░░░░░░░░░     6.99%
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          32 hrs 37 mins  ████████████████████████░   96.52 % 
-JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
-<!--END_SECTION:waka-->

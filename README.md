@@ -1,19 +1,28 @@
+<!-- <p align="center">
+    <img alt="" src=https://img.shields.io/github/stars/xStepboomz?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=xStepboomz&style=for-the-badge />
+</p> -->
+
+
+<h2 align="center">About Me </h2>
+
+```python
 from typing import Tuple, List, Dict
 
-class Tekky:
+class Stepboomz:
     pass
 
-class Attributes(Tekky):
+class Attributes(Stepboomz):
     @property
     def contact(self) -> Tuple[str]:
-   
+      
         email    = "stepboomz@gmail.com"
 	    
-	    return email
+	    return telegram, channel, email
 
     @property
     def life(self) -> Tuple[List[str], int]:
-        langs = ['Thailand', 'English']
+        langs = ['English']
         age   = 26
 		
         return langs, age
@@ -45,7 +54,5 @@ class Attributes(Tekky):
         }
 
 	return langs, specialities, ide, pc
-
-
-
+```
 

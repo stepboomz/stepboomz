@@ -1,41 +1,50 @@
+from typing import Tuple, List, Dict
 
+class Tekky:
+    pass
 
+class Attributes(Tekky):
+    @property
+    def contact(self) -> Tuple[str]:
+   
+        email    = "stepboomz@gmail.com"
+	    
+	    return email
 
-### 📊 GitHub Stats
-<a href="https://stepresume-25b96.web.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=stepboomz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepboomz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+    @property
+    def life(self) -> Tuple[List[str], int]:
+        langs = ['Thailand', 'English']
+        age   = 26
+		
+        return langs, age
+	
+    @property
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
+        langs = {
+            'expert'      : ['flutter','python'],
+            'intermediate': ['react', 'js','go'],
+            'learning'    : ['c', 'c++', 'c#', 'asm', 'java']
+        }
+        specialities  = ['web/app reverse engineering', 'fullstack', 'ai']
+        ide           = ['vscode']
+        pc            = {
+            'MacOS': {
+                'macbook air m2': {
+                    'processor': 'm2 | 8 cores',
+                    'ram'      : '8gb',
+                    'gpu'      : 'm2 | 8 cores'
+                }
+            },
+            'Windows': {
+                'custom': {
+                    'processor': 'AMD ryzen 7 5800X | 8 cores',
+                    'ram'      : '16gb',
+                    'gpu'      : 'nvidia 3070 | 5888 CUDA cores'
+                }
+            }
+        }
 
-### Languages
-
-![Dart](https://img.shields.io/badge/-Flutter-000?&logo=Dart)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          32 hrs 37 mins  ████████████████████████░   96.52 % 
-JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
-<!--END_SECTION:waka-->
+	return langs, specialities, ide, pc
 
 
 

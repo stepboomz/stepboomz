@@ -18,11 +18,11 @@ class Attributes(Stepboomz):
       
         email    = "stepboomz@gmail.com"
 	    
-	    return telegram, channel, email
+	    return email
 
     @property
     def life(self) -> Tuple[List[str], int]:
-        langs = ['English']
+        langs = ['Thailand','English']
         age   = 26
 		
         return langs, age
